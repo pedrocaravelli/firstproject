@@ -45,6 +45,7 @@ int Fibonacci(int a){
 }
 
 int main () {
+	printf("Hello World\n");
 	printf("%i\n", suma(11,34));
 	printf("%i\n", resta(5, 8));
 	printf("%i\n", multi(1480,5489));
